@@ -1,0 +1,363 @@
+POS,RACE_NO,NAME,NET_TIME,CATEGORY,CAT_POS,AGE,GENDER,GEN_POS,CITY,STATE,PACE
+1,342,Matthew Popielarz,02:29:33,Overall,1,24,Male,1,Ann Arbor,MI,5:42 min/m
+2,269,Chris Elsey,02:43:42,30-34,1,30,Male,2,South Lyon,MI,6:14 min/m
+3,249,Greg Kuhl,02:53:52,25-29,1,29,Male,3,Canal Winchester,OH,6:38 min/m
+4,101,Andrew Bucci,02:58:56,Masters,1,43,Male,4,Rochester,NY,6:49 min/m
+5,461,Sean Kearney,02:59:46,30-34,2,34,Male,5,,MI,6:51 min/m
+6,55,Takeshi Suzuki,03:00:36,30-34,3,30,Male,6,Ann Arbor,MI,6:54 min/m
+7,76,Phillip Spinosa,03:03:40,20-24,1,23,Male,7,Ann Arbor,MI,7:00 min/m
+8,546,Ken Brooks,03:06:56,Pacer,1,99,Male,8,,MI,7:08 min/m
+9,118,Amanda Cooke,03:08:11,Overall,1,35,Female,1,Columbus,OH,7:11 min/m
+10,339,Michael Girard,03:08:14,35-39,1,38,Male,9,Saint Joseph,MI,7:11 min/m
+11,248,Nicholas Black,03:08:22,25-29,2,27,Male,10,Belleville,MI,7:11 min/m
+12,316,David Fahs,03:10:51,30-34,4,31,Male,11,Ann Arbor,MI,7:17 min/m
+13,357,John Burchfield Iii,03:11:34,20-24,2,21,Male,12,Sylvania,OH,7:18 min/m
+14,234,Michelle Magagna,03:14:06,25-29,1,25,Female,2,Ann Arbor,MI,7:25 min/m
+15,224,Andrew Folkerts,03:14:21,20-24,3,20,Male,13,Jenison,MI,7:26 min/m
+16,437,Justin Senkbeil,03:15:31,30-34,5,33,Male,14,Livonia,MI,7:27 min/m
+17,370,Turner Sale,03:15:36,20-24,4,20,Male,15,Midlothian,VA,7:28 min/m
+18,277,John Spies,03:15:49,25-29,3,28,Male,16,South Bend,IN,7:29 min/m
+19,94,Maximilian Darr,03:16:00,18-19,1,18,Male,17,Marquette,MI,7:29 min/m
+20,542,Tim Schmitt,03:16:24,Pacer,2,99,Male,18,,MI,7:30 min/m
+21,531,Nick Fisher,03:16:40,Pacer,3,99,Male,19,,MI,7:30 min/m
+22,417,Paul Schmude,03:18:29,40-44,1,41,Male,20,Lapeer,MI,7:34 min/m
+23,257,Kurt Etherington,03:18:38,35-39,2,39,Male,21,Brighton,MI,7:35 min/m
+24,141,Katsuhiro Mizuno,03:19:49,45-49,1,46,Male,22,Battle Creek,MI,7:38 min/m
+25,190,Daniel Koenig,03:21:05,25-29,4,29,Male,23,Ann Arbor,MI,7:42 min/m
+26,402,Stan Ferguson,03:21:54,Grand Masters,1,52,Male,24,Maumelle,ARK,7:42 min/m
+27,419,Matthew Holappa,03:23:41,45-49,2,48,Male,25,Plymouth,MI,7:46 min/m
+28,323,Angela Taylor,03:23:57,30-34,1,34,Female,3,Mercer,PA,7:47 min/m
+29,333,Ryan Mcdonough,03:24:12,25-29,5,29,Male,26,Ann Arbor,MI,7:48 min/m
+30,334,Mario Schabus,03:24:12,25-29,6,29,Male,27,Ann Arbor,MI,7:48 min/m
+31,436,Jonathan Smith,03:25:46,40-44,2,40,Male,28,Sandusky,OH,7:51 min/m
+32,236,Makoto Murakami,03:25:51,35-39,3,39,Male,29,Ann Arbor,MI,7:52 min/m
+33,23,David Dwornick,03:26:38,55-59,1,58,Male,30,Brownstown,MI,7:53 min/m
+34,321,Adam Epstein,03:26:23,30-34,6,32,Male,31,Worcester,MA,7:53 min/m
+35,300,Megan Macciomei,03:26:40,20-24,1,20,Female,4,Shelby Township,MI,7:53 min/m
+36,372,Mikel Gurrea,03:26:30,30-34,7,31,Male,32,Ann Arbor,MI,7:54 min/m
+37,375,Manjunath Srinivasaiah,03:26:50,35-39,4,35,Male,33,New York,NY,7:54 min/m
+38,46,Meghan Prohaska,03:28:33,25-29,2,27,Female,5,Hillsdale,MI,7:57 min/m
+39,231,Scott Studer,03:28:37,35-39,5,36,Male,34,Tecumseh,MI,7:58 min/m
+40,366,Dennis Ross,03:28:11,25-29,7,29,Male,35,Winston Salem,NC,7:58 min/m
+41,533,Shane Angove,03:28:43,Pacer,6,99,Male,36,,MI,7:59 min/m
+42,551,Brian Carvill,03:28:42,Pacer,5,99,Male,37,,MI,7:59 min/m
+43,516,Charles Fritz,03:28:41,Pacer,4,99,Male,38,,MI,7:59 min/m
+44,6,Ray Bailey,03:29:19,35-39,6,36,Male,39,South Lyon,MI,8:00 min/m
+45,90,Tsuyoshi Egami,03:29:21,40-44,3,43,Male,40,Ann Arbor,MI,8:00 min/m
+46,331,Alexandria Basher,03:29:28,20-24,2,24,Female,6,Livonia,MI,8:00 min/m
+47,444,Dong Wang,03:30:24,35-39,7,39,Male,41,,MI,8:01 min/m
+48,287,Danval Taylor,03:31:59,50-54,2,52,Male,42,Brooklyn,NY,8:05 min/m
+49,29,Ge Wei,03:31:51,50-54,1,52,Male,43,Ann Arbor,MI,8:06 min/m
+50,207,Xintao Zhao,03:32:21,20-24,6,23,Male,44,Ann Arbor,MI,8:06 min/m
+51,83,Will Kopp,03:32:34,55-59,2,55,Male,45,Westerville,OH,8:07 min/m
+52,431,Brad Litwin,03:32:40,30-34,8,33,Male,46,Northville,MI,8:08 min/m
+53,407,Stephen Knight,03:33:08,55-59,3,55,Male,47,Lansing,MI,8:09 min/m
+54,320,Luke Toppa,03:32:11,20-24,5,24,Male,48,Redford,MI,8:09 min/m
+55,382,Adrian Marden,03:33:14,40-44,4,44,Male,49,Reading,MA,8:09 min/m
+56,194,Vivek Tiwari,03:33:18,30-34,9,30,Male,50,Ann Arbor,MI,8:09 min/m
+57,309,Daniella Patton,03:33:58,20-24,3,23,Female,7,Ann Arbor,MI,8:11 min/m
+58,108,Angela Carron,03:37:05,35-39,2,37,Female,8,Canton,MI,8:18 min/m
+59,56,Brenda Chang,03:36:54,35-39,1,39,Female,9,Bloomington,MN,8:18 min/m
+60,129,Andres Perez,03:38:05,45-49,3,45,Male,51,Grand Rapids,MI,8:19 min/m
+61,250,Michael Neri,03:37:44,25-29,8,27,Male,52,Boston,MA,8:20 min/m
+62,387,Nancy Schubring,03:38:12,Masters,1,55,Female,10,Novi,MI,8:20 min/m
+63,319,Charles Leister,03:38:49,35-39,8,39,Male,53,Ypsilanti,MI,8:22 min/m
+64,166,Karl Berkemeier,03:39:17,18-19,2,19,Male,54,Ann Arbor,MI,8:22 min/m
+65,432,Kazunobu Takeshita,03:38:54,45-49,4,47,Male,55,West Bloomfield,MI,8:23 min/m
+66,86,Kevin Pline,03:41:22,35-39,9,35,Male,56,Plymouth,MI,8:27 min/m
+67,344,Katie Lopez,03:40:54,30-34,2,33,Female,11,Ann Arbor,MI,8:27 min/m
+68,301,Ann Wittbrodt,03:40:45,20-24,4,23,Female,12,Bay City,MI,8:28 min/m
+69,450,Mark Schmude,03:41:31,35-39,10,36,Male,57,,MI,8:29 min/m
+70,4,Amjad Nader,03:42:31,35-39,11,37,Male,58,Bay City,MI,8:30 min/m
+71,119,Keenan Hassell,03:42:52,20-24,7,24,Male,59,Livonia,MI,8:31 min/m
+72,528,Keith Parrott,03:42:58,Pacer,7,99,Male,60,,MI,8:32 min/m
+73,304,Ayumu Kurizono,03:43:25,35-39,12,38,Male,61,Plymouth,MI,8:33 min/m
+74,138,Brian Gard,03:43:21,40-44,5,40,Male,62,Rockford,MI,8:33 min/m
+75,100,Caroline Bucci,03:43:39,40-44,1,43,Female,13,Rochester Hills,NY,8:33 min/m
+76,103,Paul Patrick,03:44:12,45-49,5,47,Male,63,Plymouth,IN,8:34 min/m
+77,205,Daniel Medina,03:44:21,20-24,8,21,Male,64,Roscommon,MI,8:34 min/m
+78,97,Haiyong Liu,03:44:45,40-44,6,43,Male,65,Ann Arbor,MI,8:35 min/m
+79,421,Tommy Ferry,03:44:54,35-39,13,38,Male,66,Eau Claire,MI,8:36 min/m
+80,151,Anthony Russel,03:45:30,20-24,9,23,Male,67,Ypsilanti,MI,8:37 min/m
+81,340,Tori Killian,03:45:31,20-24,5,20,Female,14,Charlotte,MI,8:38 min/m
+82,147,Emma Pahl,03:46:00,18-19,1,19,Female,15,Ann Arbor,MI,8:38 min/m
+83,75,John Trepanier,03:45:59,30-34,10,32,Male,68,Belle River,ONT,8:38 min/m
+84,554,Beth Zimpfer,03:46:08,Pacer,1,99,Female,16,,MI,8:39 min/m
+85,383,Gustaw Kubiszewski,03:46:43,40-44,7,44,Male,69,Buffalo Grove,IL,8:40 min/m
+86,167,Andrew Greidanus,03:47:53,18-19,3,19,Male,70,Ann Arbor,MI,8:41 min/m
+87,278,John Fioriti,03:47:06,20-24,11,20,Male,71,Scottsdale,ARI,8:41 min/m
+88,318,Giacomo Bologna,03:46:46,20-24,10,23,Male,72,South Lyon,MI,8:43 min/m
+89,280,Todd Kercheval,03:47:55,40-44,8,42,Male,73,Del Valle,TX,8:44 min/m
+90,462,Vincent Ma,03:48:51,45-49,6,46,Male,74,,CA,8:44 min/m
+91,336,Raylene Natwick,03:47:58,25-29,3,29,Female,17,Grand Rapids,MI,8:44 min/m
+92,60,Francesca Derteano,03:48:11,20-24,6,21,Female,18,Ann Arbor,MA,8:44 min/m
+93,364,Lindsay Decken,03:48:06,30-34,3,31,Female,19,Simpsonville,SOU,8:44 min/m
+94,197,Doug Andrews,03:48:40,40-44,9,42,Male,75,Lima,OH,8:45 min/m
+95,221,Mary Kilpela,03:48:33,20-24,7,23,Female,20,Howell,MI,8:45 min/m
+96,220,Thomas Kilpela,03:48:33,25-29,9,26,Male,76,Howell,MI,8:45 min/m
+97,40,Greg Johnson,03:49:14,45-49,7,46,Male,77,Manchester,MI,8:45 min/m
+98,203,Deborah Cartwright,03:48:59,45-49,1,46,Female,21,Littleton,CO,8:46 min/m
+99,204,Mark Groulx,03:48:58,Senior Grand Masters,1,60,Male,78,Holland,MI,8:46 min/m
+100,327,Kaoru Kawashima,03:50:01,35-39,14,35,Male,79,Northville,MI,8:47 min/m
+101,45,Sam Hawke,03:49:35,18-19,2,19,Female,22,Ann Arbor,MI,8:48 min/m
+102,255,Rhonda Springer,03:50:24,45-49,2,47,Female,23,London,ONT,8:49 min/m
+103,19,Tomoko Gnodtke,03:50:22,40-44,2,42,Female,24,Okemos,MI,8:49 min/m
+104,415,Benjamin Lowden,03:51:12,20-24,12,22,Male,80,Ann Arbor,MI,8:50 min/m
+105,363,Katie Howe,03:51:02,25-29,4,28,Female,25,Ann Arbor,MI,8:51 min/m
+106,324,Kevin Kistulenetz,03:51:44,50-54,3,50,Male,81,Brighton,MI,8:51 min/m
+107,158,Mario Dominguez Hernandez,03:50:46,40-44,10,41,Male,82,Ann Arbor,MI,8:52 min/m
+108,202,Laurel Machiele,03:51:13,20-24,8,20,Female,26,Ann Arbor,MI,8:52 min/m
+109,140,Zachary Wooledge,03:52:13,30-34,11,31,Male,83,Mason,MI,8:53 min/m
+110,114,Yuru Shao,03:52:37,25-29,10,26,Male,84,Ann Arbor,MI,8:54 min/m
+111,14,Jeffrey Bell,03:53:03,50-54,4,50,Male,85,Lansing,MI,8:55 min/m
+112,362,Stacy Van Norman,03:52:55,35-39,15,38,Male,86,Lansing,MI,8:55 min/m
+113,302,Kelly Carmichael,03:53:33,50-54,5,53,Male,87,Galveston,TX,8:55 min/m
+114,162,Jeff G Macdonald,03:53:43,40-44,11,43,Male,88,London,ONT,8:57 min/m
+115,377,Brian Chapman,03:54:08,40-44,12,40,Male,89,Wilmette,IL,8:58 min/m
+116,99,Raymond Bonomo,03:55:13,50-54,6,51,Male,90,Brighton,MI,9:00 min/m
+117,42,Robert Cesaro,03:55:07,30-34,12,32,Male,91,Dexter,MI,9:00 min/m
+118,337,Akiko Muramatsu,03:55:14,25-29,5,28,Female,27,Ann Arbor,MI,9:01 min/m
+119,191,Michael Bond,03:53:43,45-49,8,47,Male,92,Evanston,IL,9:02 min/m
+120,246,Karen Harvey,03:56:51,40-44,3,40,Female,28,Kirkfield,ONT,9:02 min/m
+121,145,Sarah Furman,03:56:59,35-39,3,38,Female,29,Indian River,MI,9:03 min/m
+122,263,Joseph Mayer,03:57:18,20-24,13,21,Male,93,Ann Arbor,MI,9:06 min/m
+123,322,Mary Duprie,03:57:37,25-29,6,28,Female,30,Grand Rapids,MI,9:06 min/m
+124,307,Jeremiah Alicea,03:57:51,25-29,11,26,Male,94,Ann Arbor,MI,9:09 min/m
+125,252,Stacy Maier,03:58:24,30-34,4,32,Female,31,Rochester,NY,9:09 min/m
+126,183,Nicole Jacobs,03:58:35,30-34,5,30,Female,32,Essexville,MI,9:09 min/m
+127,216,Danny Christ,03:59:03,20-24,14,21,Male,95,Ann Arbor,MI,9:10 min/m
+128,403,Glen Gomoll,03:58:58,50-54,7,53,Male,96,Canton,MI,9:10 min/m
+129,116,Mark Mayberry,03:59:50,30-34,14,30,Male,97,Farmington Hills,MI,9:11 min/m
+130,393,Seth Kramer,03:59:11,30-34,13,34,Male,98,Wilton Manors,FL,9:11 min/m
+131,148,Yong Yu,03:59:43,50-54,8,54,Male,99,Rochester,MI,9:12 min/m
+132,463,Bruno St. Pierre,04:00:50,45-49,9,46,Male,100,,AL,9:13 min/m
+133,117,Lisa Quesada,04:01:30,25-29,7,26,Female,33,Saline,MI,9:13 min/m
+134,143,John Scharf,04:01:08,50-54,9,54,Male,101,Dexter,MI,9:14 min/m
+135,63,Rick Swope,04:02:00,55-59,4,59,Male,102,Cement City,MI,9:15 min/m
+136,35,Christopher Rockwell,04:01:33,20-24,15,22,Male,103,Ann Arbor,MI,9:16 min/m
+137,134,Robert Guttersohn,04:01:40,30-34,15,32,Male,104,Ferndale,MI,9:16 min/m
+138,156,Madison Mcmurtry,04:01:22,18-19,3,19,Female,34,Ann Arbor,MI,9:16 min/m
+139,85,Mallory Maynard,04:01:44,25-29,8,29,Female,35,Ann Arbor,MI,9:17 min/m
+140,283,John Rachel,04:02:30,45-49,10,47,Male,105,Chicago,IL,9:18 min/m
+141,338,Jill Behrman,04:03:02,25-29,9,25,Female,36,Plymouth,MI,9:19 min/m
+142,77,Ken Arble,04:04:40,55-59,5,59,Male,106,Linden,MI,9:22 min/m
+143,274,Roxane Strobel,04:04:54,20-24,10,20,Female,37,Ann Arbor,MI,9:23 min/m
+144,241,Sophie Shinsky,04:04:54,20-24,9,21,Female,38,Brighton,MI,9:23 min/m
+145,343,Daniel Lin,04:04:02,20-24,16,22,Male,107,West Bloomfield,MI,9:23 min/m
+146,211,Kathleen Wallis,04:05:04,Grand Masters,1,53,Female,39,Holland,MI,9:24 min/m
+147,47,Liz Zhang,04:06:10,30-34,6,33,Female,40,Ann Arbor,MI,9:27 min/m
+148,361,Jill Dromazos,04:07:10,35-39,5,39,Female,41,Dexter,MI,9:28 min/m
+149,121,Rachel Koloms,04:06:57,25-29,10,26,Female,42,Chicago,IL,9:29 min/m
+150,424,Genevieve Geisler,04:06:50,35-39,4,35,Female,43,North Canton,OH,9:29 min/m
+151,261,Allison Hellman,04:06:36,18-19,4,19,Female,44,Woodbridge,CON,9:29 min/m
+152,380,Zhi Xie,04:09:10,40-44,13,41,Male,108,Ann Arbor,MI,9:30 min/m
+153,354,Nick Pajon,04:08:05,30-34,16,30,Male,109,Evansville,IN,9:32 min/m
+154,174,Matthew Etienne,04:09:53,30-34,17,31,Male,110,Evansville,IN,9:32 min/m
+155,386,Arlene Nichols Saffian,04:09:43,45-49,3,48,Female,45,Newnan,GA,9:32 min/m
+156,258,Burkhard Garske,04:08:43,50-54,10,53,Male,111,Lake Orion,MI,9:32 min/m
+157,71,Mizue Wagner,04:09:27,50-54,1,50,Female,46,Okemos,MI,9:33 min/m
+158,505,Marissa Martz,04:08:40,Pacer,3,99,Female,47,,MI,9:33 min/m
+159,540,Guan Saw,04:08:41,Pacer,9,99,Male,112,,MI,9:33 min/m
+160,503,Rick Ganzi,04:08:40,Pacer,8,99,Male,113,,MI,9:33 min/m
+161,568,Sahoko Little,04:08:38,Pacer,2,99,Female,48,,MI,9:33 min/m
+162,30,Bonnie Durbin,04:10:19,25-29,11,29,Female,49,Milan,MI,9:36 min/m
+163,111,Mckenna Mahacek,04:10:38,18-19,5,19,Female,50,Grand Haven,MI,9:37 min/m
+164,373,Xu Wang,04:10:10,25-29,12,25,Male,114,Ann Arbor,MI,9:37 min/m
+165,25,Hailey Kruger,04:12:20,18-19,6,19,Female,51,Ann Arbor,MI,9:37 min/m
+166,411,Melinda Bednarik,04:11:51,25-29,12,27,Female,52,Stow,OH,9:40 min/m
+167,84,Sandro Nuesch,04:11:57,25-29,13,28,Male,115,Ann Arbor,MI,9:40 min/m
+168,223,Graham Talbott,04:12:44,18-19,4,19,Male,116,Grand Rapids,MI,9:41 min/m
+169,308,Bryan Curfman,04:13:42,35-39,16,37,Male,117,Jackson,MI,9:43 min/m
+170,228,Sarah Wallace,04:13:36,30-34,7,34,Female,53,Pittsburgh,PA,9:43 min/m
+171,135,Dominick Rutherford,04:14:40,30-34,18,30,Male,118,Ypsilanti,MI,9:44 min/m
+172,214,Marc Staubitz,04:14:08,40-44,14,40,Male,119,Highland,MI,9:44 min/m
+173,330,Mariana Masteling Pereira,04:13:48,20-24,11,24,Female,54,Ann Arbor,MI,9:45 min/m
+174,235,Olivia Ritsema,04:13:40,18-19,7,19,Female,55,Kalamazoo,MI,9:45 min/m
+175,272,Cris Miller,04:13:35,35-39,6,38,Female,56,Middletown,IN,9:45 min/m
+176,153,Janice Schuurmans,04:15:35,35-39,7,35,Female,57,Middleville,MI,9:47 min/m
+177,142,Clint Jones,04:16:12,40-44,15,41,Male,120,West Des Moines,IA,9:48 min/m
+178,50,Hadley Skeffington-Vos,04:14:44,25-29,13,27,Female,58,Mount Prospect,IL,9:48 min/m
+179,328,Colton Zimmer,04:14:47,18-19,5,18,Male,121,Frankenmuth,MI,9:49 min/m
+180,439,Dirk Plante,04:16:43,45-49,11,48,Male,122,Lorton,VA,9:49 min/m
+181,65,Chelsea Zhu,04:15:10,20-24,12,23,Female,59,Toledo,OH,9:49 min/m
+182,200,Brendan Stafford,04:16:40,20-24,17,21,Male,123,Grand Rapids,MI,9:49 min/m
+183,292,Jaya Telang,04:15:59,20-24,13,20,Female,60,Ann Arbor,MI,9:49 min/m
+184,291,Lindsay Walter,04:15:59,20-24,14,20,Female,61,Ann Arbor,MI,9:49 min/m
+185,215,Michael Debowski,04:18:08,25-29,14,26,Male,124,Grand Rapids,MI,9:52 min/m
+186,48,Claire Carter,04:16:18,20-24,15,20,Female,62,Frankenmuth,MI,9:52 min/m
+187,195,Chandan Agrawal,04:19:01,25-29,15,29,Male,125,Bowling Green,OH,9:53 min/m
+188,305,Shane Morgan,04:19:05,35-39,17,38,Male,126,Waterford,MI,9:54 min/m
+189,233,Mark Thomson,04:17:50,60-64,1,61,Male,127,Northville,MI,9:55 min/m
+190,49,Kristin Zajac,04:18:02,25-29,14,29,Female,63,Chicago,IL,9:55 min/m
+191,449,Jordan Asker,04:19:00,20-24,18,21,Male,128,,MI,9:55 min/m
+192,52,Qinghui Liu,04:19:53,50-54,12,53,Male,129,Ann Arbor,MI,9:55 min/m
+193,212,Michael Rosenberg,04:19:43,30-34,19,32,Male,130,South Euclid,OH,9:56 min/m
+194,352,Gabriella Ring,04:20:16,20-24,16,22,Female,64,Oak Park,MI,9:57 min/m
+195,388,Ken Adkins,04:19:00,50-54,11,52,Male,131,Toledo,OH,9:57 min/m
+196,317,Ben Hubbard,04:19:36,25-29,16,26,Male,132,Ann Arbor,MI,9:58 min/m
+197,435,Charles Toomer,04:20:20,55-59,7,56,Male,133,Little Rock,ARK,9:58 min/m
+198,164,William Thompson,04:19:49,20-24,19,20,Male,134,Ann Arbor,MI,9:59 min/m
+199,310,Xavier Locke,04:20:30,20-24,21,21,Male,135,Big Rapids,MI,9:59 min/m
+200,409,Fred Colbert,04:21:58,60-64,2,63,Male,136,Kalamazoo,MI,10:00 min/m
+201,404,David Huntley,04:19:44,45-49,12,49,Male,137,Fenton,MI,10:01 min/m
+202,384,Doug Robinson,04:19:58,55-59,6,58,Male,138,Brandon,VT,10:01 min/m
+203,225,Benjamin Feikema,04:20:18,20-24,20,20,Male,139,Grand Rapids,MI,10:01 min/m
+204,264,John Koch,04:21:51,20-24,23,24,Male,140,Bowling Green,OH,10:02 min/m
+205,294,Ben Carter,04:21:03,20-24,22,22,Male,141,Grand Rapids,MI,10:03 min/m
+206,441,John Adams,04:20:42,45-49,13,45,Male,142,,MI,10:03 min/m
+207,120,Marc Bleckman,04:22:29,40-44,16,40,Male,143,Ann Arbor,MI,10:04 min/m
+208,335,Ladoria Henderson,04:23:43,45-49,4,48,Female,65,Raleigh,NC,10:05 min/m
+209,509,Alex Mitevski,04:22:04,Pacer,10,99,Male,144,,MI,10:05 min/m
+210,510,Keith Wallace,04:22:05,Pacer,11,99,Male,145,,MI,10:05 min/m
+211,547,Ashley Truan,04:22:10,Pacer,4,99,Female,66,,MI,10:05 min/m
+212,286,Bruno Carraro,04:22:33,30-34,20,33,Male,146,Royal Oak,MI,10:05 min/m
+213,188,Randall Schroeder,04:24:05,50-54,13,54,Male,147,White Lake,MI,10:07 min/m
+214,62,Hiroko Saito,04:23:19,30-34,8,32,Female,67,Annarbor,MI,10:07 min/m
+215,273,Jon Scalzitti,04:22:58,45-49,14,46,Male,148,Pittsburgh,PA,10:08 min/m
+216,165,Ryan Petrul,04:25:29,20-24,24,21,Male,149,Livonia,MI,10:09 min/m
+217,64,Yihharn Hwang,04:24:34,25-29,15,26,Female,68,Toledo,OH,10:11 min/m
+218,253,Tom Wadelton,04:26:31,50-54,14,51,Male,150,Carmel,IN,10:14 min/m
+219,270,Christina Wadelton,04:26:30,20-24,17,23,Female,69,Ann Arbor,MI,10:14 min/m
+220,368,Ann Anstett,04:27:55,50-54,2,52,Female,70,Sarnia,ONT,10:15 min/m
+221,33,Ji Ye,04:28:41,20-24,18,20,Female,71,Ann Arbor,MI,10:17 min/m
+222,390,Elfie Robertson,04:27:18,45-49,5,47,Female,72,Lake City,MI,10:17 min/m
+223,350,Joe Melrose,04:25:37,30-34,21,30,Male,151,Royal Oak,MI,10:18 min/m
+224,400,Peter Janson,04:28:26,25-29,17,28,Male,152,Plymouth,MI,10:18 min/m
+225,399,Caleb Janson,04:28:26,20-24,25,21,Male,153,Pierz,MN,10:18 min/m
+226,358,Allan Beatty,04:27:33,50-54,15,51,Male,154,Ypsilanti,MI,10:19 min/m
+227,112,Nadim Bari,04:29:29,20-24,26,20,Male,155,Ann Arbor,MI,10:20 min/m
+228,267,Sitara Koneru,04:29:08,20-24,19,23,Female,73,Holland,OH,10:21 min/m
+229,429,Brandon Karl,04:30:23,40-44,17,40,Male,156,Buchanan,MI,10:22 min/m
+230,414,Patrick Decoster,04:31:04,65-69,1,65,Male,157,East Moline,IL,10:22 min/m
+231,229,Kristin Litster,04:30:53,30-34,9,34,Female,74,Pittsburgh,PA,10:23 min/m
+232,18,Brandy Mutzabaugh,04:30:03,35-39,8,38,Female,75,Pittsburgh,PA,10:24 min/m
+233,66,Tess Gao,04:30:19,20-24,20,22,Female,76,Perrysburg,OH,10:24 min/m
+234,349,Kate Maybury,04:30:29,Senior Grand Masters,1,60,Female,77,Holland,MI,10:24 min/m
+235,276,Guannan Wang,04:31:09,30-34,23,30,Male,158,Northville,MI,10:25 min/m
+236,245,Pamela Franklin,04:30:15,55-59,1,58,Female,78,Flint,MI,10:26 min/m
+237,329,Matthew Korpas,04:31:06,30-34,22,34,Male,159,Rochester Hills,MI,10:26 min/m
+238,348,Kathy Jean Hermeyer,04:32:18,50-54,3,53,Female,79,Princeton,IL,10:27 min/m
+239,196,Jori Thocker,04:32:59,45-49,6,47,Female,80,Pickford,MI,10:27 min/m
+240,392,Eliazbeth Snyder,04:31:03,20-24,22,20,Female,81,Ann Arbor,MI,10:28 min/m
+241,563,Casey Hogan,04:32:50,Pacer,12,99,Male,160,,MI,10:31 min/m
+242,396,Amy Emmarco,04:33:49,30-34,10,30,Female,82,Wayne,NJ,10:31 min/m
+243,410,Katie Storbeck,04:33:50,30-34,11,30,Female,83,Haldon,NJ,10:31 min/m
+244,136,Amy Polega,04:34:06,45-49,7,45,Female,84,Grand Rapids,MI,10:32 min/m
+245,217,Michael Francis,04:34:29,20-24,27,21,Male,161,Grosse Pointe Woods,MI,10:32 min/m
+246,15,Larry Emmert,04:35:34,45-49,15,48,Male,162,Ortonville,MI,10:33 min/m
+247,448,Tiffany Kennedy,04:30:52,20-24,21,24,Female,85,,MI,10:34 min/m
+248,428,Nancy Knoll,04:36:13,55-59,2,59,Female,86,Warren,MI,10:34 min/m
+249,106,Madeline Pashnik,04:35:05,25-29,16,25,Female,87,Saline,MI,10:35 min/m
+250,38,Julie Trompeter,04:34:54,45-49,8,49,Female,88,Adrian,MI,10:37 min/m
+251,391,Johannah Walker,04:36:06,20-24,23,23,Female,89,Ann Arbor,MI,10:37 min/m
+252,219,David Howard,04:36:19,40-44,18,43,Male,163,Whitmore Lake,MI,10:38 min/m
+253,295,Laura Mills,04:36:58,30-34,12,31,Female,90,Ashley,MI,10:40 min/m
+254,67,Jaclyn Mueller,04:37:31,25-29,17,25,Female,91,Toledo,OH,10:40 min/m
+255,193,Satoru Muto,04:37:47,30-34,25,33,Male,164,Novi,MI,10:42 min/m
+256,367,Trevor Van Valkenburg,04:37:36,30-34,24,30,Male,165,Adrian,MI,10:42 min/m
+257,230,Phanindra Parlapalli,04:38:35,40-44,19,42,Male,166,Ypsilanti,MI,10:44 min/m
+258,243,Justin Jeffrey,04:37:28,20-24,28,21,Male,167,Ann Arbor,MI,10:44 min/m
+259,41,Carl Bihler,04:41:40,40-44,20,40,Male,168,Des Plaines,IL,10:50 min/m
+260,237,Samuel Unglo,04:44:08,40-44,21,41,Male,169,Roswell,GA,10:51 min/m
+261,126,Wendy Villemure,04:42:10,40-44,4,41,Female,92,Rochester Hills,MI,10:52 min/m
+262,51,Ana Kucelin,04:44:23,35-39,9,38,Female,93,Atlanta,GA,10:55 min/m
+263,293,Mary Lee,04:43:56,30-34,13,33,Female,94,Ann Arbor,MI,10:55 min/m
+264,251,Alexander Tabet,04:45:52,20-24,29,20,Male,170,New York,NY,10:56 min/m
+265,192,Hayley Mullen,04:44:09,20-24,24,20,Female,95,Ann Arbor,MI,10:56 min/m
+266,32,Andy Reiser,04:45:58,50-54,16,51,Male,171,Dexter,MI,10:58 min/m
+267,44,Marc Wohlfeil,04:44:59,45-49,16,49,Male,172,Pinckney,MI,10:58 min/m
+268,347,Alyssa Gill,04:44:23,20-24,25,20,Female,96,Ann Arbor,MI,10:58 min/m
+269,351,Terri Taylor,04:46:50,50-54,4,54,Female,97,Provo,UTA,11:00 min/m
+270,314,Chris Hamlyn,04:46:25,30-34,26,31,Male,173,Anderson,IN,11:02 min/m
+271,315,Amber Hamlyn,04:46:25,30-34,14,31,Female,98,Anderson,IN,11:02 min/m
+272,8,Bob Cowles,04:46:28,30-34,27,34,Male,174,Muskegon,MI,11:03 min/m
+273,504,Francine Robinson,04:46:32,Pacer,5,99,Female,99,,MI,11:03 min/m
+274,98,Carolyn Roberts,04:46:54,50-54,5,53,Female,100,Metuchen,NJ,11:03 min/m
+275,426,Colleen Gray,04:47:24,50-54,6,51,Female,101,Merrill,MI,11:04 min/m
+276,466,Bill Kehoe,04:48:26,70-74,1,72,Male,175,,AL,11:07 min/m
+277,430,David Camfield,04:50:33,50-54,17,51,Male,176,Ann Arbor,MI,11:11 min/m
+278,401,Chrissy Ferguson,04:51:06,55-59,3,55,Female,102,Maumelle,ARK,11:14 min/m
+279,416,Mike Mcginnis,04:52:54,40-44,22,43,Male,177,Carmel,IN,11:14 min/m
+280,206,Wesley Dean,04:54:49,20-24,30,21,Male,178,Grayling,MI,11:16 min/m
+281,508,Antonio Romano,04:52:29,Pacer,13,99,Male,179,,MI,11:17 min/m
+282,222,Kathy Bruzewski,04:53:42,45-49,9,48,Female,103,Auburn,MI,11:17 min/m
+283,247,Ruth Cantor,04:53:45,60-64,1,60,Female,104,Flint,MI,11:20 min/m
+284,275,Walter Dalitsch,04:57:16,45-49,17,48,Male,180,Antioch,IL,11:21 min/m
+285,54,Zana Kwaiser,04:56:24,35-39,10,37,Female,105,Ann Arbor,MI,11:22 min/m
+286,12,Michael Kincaid,04:56:38,20-24,31,21,Male,181,Saint Joseph,MI,11:23 min/m
+287,240,Carter Bock,04:57:13,20-24,32,20,Male,182,Grosse Pointe Woods,MI,11:24 min/m
+288,442,Brigid Mullinix,04:56:29,35-39,11,39,Female,106,,MI,11:25 min/m
+289,405,Lisa Wasacz,04:56:29,40-44,5,43,Female,107,South Lyon,MI,11:25 min/m
+290,353,Carol Neckel,04:57:41,55-59,4,59,Female,108,Holland,MI,11:26 min/m
+291,59,Laura Hufschmidt,04:56:42,35-39,12,35,Female,109,Ann Arbor,MI,11:27 min/m
+292,172,Lawrence Jasinski,04:59:27,20-24,33,21,Male,183,Ann Arbor,MI,11:28 min/m
+293,242,Carina Berg,04:57:27,40-44,6,40,Female,110,Plymouth,MI,11:28 min/m
+294,73,Carol Morrissey,04:58:21,50-54,7,52,Female,111,Westland,MI,11:29 min/m
+295,379,William Winters,05:01:50,35-39,18,35,Male,184,Darien,IL,11:33 min/m
+296,355,Christopher Merrill,05:03:10,50-54,18,50,Male,185,Dansville,MI,11:34 min/m
+297,289,Madeleine Cantor,05:00:12,20-24,26,23,Female,112,Flint,MI,11:34 min/m
+298,127,Stephen Bernardi,05:00:38,40-44,23,42,Male,186,Macomb,MI,11:34 min/m
+299,11,Kelsey Hobson,05:00:14,25-29,19,26,Female,113,Ann Arbor,MI,11:34 min/m
+300,10,Mary Cantor,05:00:14,25-29,18,27,Female,114,Holland,MI,11:34 min/m
+301,184,Cody Chipman,05:02:36,20-24,34,22,Male,187,Muskegon,MI,11:36 min/m
+302,150,Ramona Van Irvin,05:02:32,35-39,13,37,Female,115,Norfolk,VA,11:36 min/m
+303,549,Falko Berg,05:01:13,Pacer,14,99,Male,188,,MI,11:37 min/m
+304,471,Deonia Montgomery,05:03:06,45-49,10,46,Female,116,,AL,11:42 min/m
+305,413,Clara Decoster,05:02:32,60-64,2,63,Female,117,East Moline,IL,11:42 min/m
+306,256,Suzanne Olsen,05:04:21,35-39,14,36,Female,118,Riverview,MI,11:44 min/m
+307,254,Jeffo Anderson,05:08:31,50-54,19,54,Male,189,Lansing,MI,11:46 min/m
+308,423,Thomas Samataro,05:07:15,35-39,19,36,Male,190,Macomb,MI,11:47 min/m
+309,288,Scott Stiles,05:10:36,40-44,24,43,Male,191,Yale,MI,11:56 min/m
+310,34,Bonnie Stiles,05:10:41,45-49,18,46,Male,192,Yale,MI,11:56 min/m
+311,175,Gregg Iddings,05:10:47,45-49,19,48,Male,193,Britton,MI,11:57 min/m
+312,359,David Trachte,05:10:24,50-54,20,51,Male,194,Watertown,WI,11:58 min/m
+313,406,Brian Schneider,05:11:52,45-49,20,46,Male,195,Battle Creek,MI,11:59 min/m
+314,284,Boris Tannenbaum,05:11:39,60-64,3,60,Male,196,Mundelein,IL,12:00 min/m
+315,3,Neeraj Gonela,05:12:18,35-39,20,39,Male,197,Ann Arbor,MI,12:02 min/m
+316,538,Toni Reese,05:12:21,Pacer,6,99,Female,119,,MI,12:03 min/m
+317,539,Michele Cox,05:12:22,Pacer,7,99,Female,120,,MI,12:03 min/m
+318,381,Maggy Zidar,05:13:50,65-69,1,66,Female,121,Pontiac,MI,12:03 min/m
+319,115,Micaiah Hanke,05:14:23,18-19,6,19,Male,198,Lake Orion,MI,12:03 min/m
+320,13,Andres Kawasaki,05:13:01,40-44,25,41,Male,199,Rochester Hills,MI,12:04 min/m
+321,178,Emily Vinckier,05:14:56,20-24,28,23,Female,122,Royal Oak,MI,12:05 min/m
+322,446,Carrie Alexander,05:15:25,30-34,15,34,Female,123,,MI,12:06 min/m
+323,244,Misty Fisher,05:15:10,35-39,15,39,Female,124,Yale,MI,12:06 min/m
+324,303,Kelly Christensen,05:14:35,20-24,27,22,Female,125,Rancho Santa Margarita,CA,12:06 min/m
+325,128,Mariana Perez,05:19:07,20-24,29,21,Female,126,Grand Rapids,MI,12:11 min/m
+326,201,Kaila Black,05:20:19,20-24,30,20,Female,127,Dewitt,MI,12:16 min/m
+327,313,Colleen Rosenberg,05:19:53,40-44,7,41,Female,128,Ypsilanti,MI,12:19 min/m
+328,408,Scott Becker,05:18:30,50-54,21,52,Male,200,Moon Township,PA,12:19 min/m
+329,325,Miguel Gonzalez,05:23:59,45-49,21,45,Male,201,Ann Arbor,MI,12:21 min/m
+330,365,Richard Zinter,05:22:39,40-44,26,43,Male,202,Hartland,MI,12:26 min/m
+331,418,Katherine Paoletti,05:24:59,25-29,20,28,Female,129,Bloomingdale,IL,12:31 min/m
+332,226,Barbra Nelson,05:29:21,45-49,11,49,Female,130,Charleston,WES,12:41 min/m
+333,561,Carey Koutsoubos,05:29:40,Pacer,8,99,Female,131,,MI,12:43 min/m
+334,515,Candace Heskitt,05:29:40,Pacer,9,99,Female,132,,MI,12:43 min/m
+335,57,Mary Stapleton,05:31:16,35-39,16,38,Female,133,Austin,TX,12:46 min/m
+336,104,Matthew Ellsworth,05:32:17,30-34,28,30,Male,203,Atlanta,GA,12:48 min/m
+337,58,Kyle Brown,05:32:18,40-44,27,41,Male,204,Des Moines,IA,12:48 min/m
+338,227,Mark Janosky,05:32:23,60-64,4,62,Male,205,Perrysburg,OH,12:49 min/m
+339,326,Allison Smothers,05:33:31,25-29,21,27,Female,134,East Peoria,IL,12:51 min/m
+340,74,Karen Walker,05:33:39,40-44,8,40,Female,135,Lambertville,MI,12:51 min/m
+341,290,Gilberto Sosa,05:36:55,50-54,22,51,Male,206,Granger,IA,12:55 min/m
+342,434,Shari Keller,05:36:23,45-49,12,47,Female,136,White Lake,MI,12:58 min/m
+343,296,Ken West,05:38:33,50-54,23,52,Male,207,Leavenworth,WAS,13:01 min/m
+344,297,Jack West,05:38:33,60-64,5,61,Male,208,Leavenworth,WAS,13:02 min/m
+345,443,Chris Brooks,05:42:37,65-69,2,66,Male,209,,MI,13:04 min/m
+346,346,Sandra Larson,05:39:39,50-54,8,52,Female,137,Peoria,IL,13:06 min/m
+347,501,Ken Fattmann,05:39:50,Pacer,15,99,Male,210,,MI,13:06 min/m
+348,345,Leticia Vega,05:44:40,40-44,9,43,Female,138,Friendswood,TX,13:10 min/m
+349,69,Marlon Glenn,05:42:39,45-49,22,45,Male,211,Taylor,MI,13:10 min/m
+350,468,Steve Dorr,05:43:20,25-29,18,25,Male,212,,AL,13:10 min/m
+351,412,Terance Lee,05:42:18,60-64,6,64,Male,213,Chicago,IL,13:11 min/m
+352,185,Sanjay Mohanta,05:43:09,40-44,28,44,Male,214,Brampton,ONT,13:13 min/m
+353,447,Dan Dalton,05:46:54,45-49,23,49,Male,215,,MI,13:21 min/m
+354,125,Kate Mercado,05:46:54,30-34,16,32,Female,139,Westland,MI,13:22 min/m
+355,389,Stephanie Northway,05:47:16,25-29,22,29,Female,140,Ypsilanti,MI,13:23 min/m
+356,31,Kayla Downing,05:47:59,25-29,23,28,Female,141,Canton,MI,13:25 min/m
+357,36,Hong Zhou,05:51:32,25-29,24,28,Female,142,Ann Arbor,MI,13:32 min/m
+358,27,Danielle Schepperley,05:56:43,20-24,31,21,Female,143,East Lansing,MI,13:42 min/m
+359,149,Ellen Falduto,05:57:02,55-59,5,56,Female,144,Wooster,OH,13:49 min/m
+360,133,Jeff Soderberg,06:02:43,35-39,21,38,Male,216,Eastpointe,MI,13:59 min/m
+361,569,Ana Hotaling,06:02:47,Pacer,10,99,Female,145,,MI,13:59 min/m
+362,87,Katie Bissonnette,06:08:57,20-24,32,24,Female,146,Flushing,MI,14:08 min/m
