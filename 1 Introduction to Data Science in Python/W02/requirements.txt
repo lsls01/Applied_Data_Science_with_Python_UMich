@@ -64,7 +64,7 @@ pyshp==1.2.3
 python-dateutil==2.5.3
 pytz==2016.7
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.0
 requests==2.11.1
 requests-file==1.4
