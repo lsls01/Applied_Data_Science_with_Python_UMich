@@ -12,7 +12,7 @@ decorator==4.0.10
 emoji==0.3.9
 et-xmlfile==1.0.1
 flake8==3.0.4
-html5lib==0.9999999
+html5lib==0.99999999
 ipykernel==4.5.0
 ipython==5.1.0
 ipython-genutils==0.1.0
