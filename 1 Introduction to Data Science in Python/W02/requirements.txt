@@ -40,7 +40,7 @@ nbformat==4.1.0
 nltk==3.2.1
 notebook==4.2.3
 numexpr==2.6.1
-numpy==1.11.2
+numpy==1.22.0
 oauthlib==2.0.0
 openpyxl==2.4.0
 packaging==16.7
