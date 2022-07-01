@@ -42,7 +42,7 @@ notebook==4.2.3
 numexpr==2.6.1
 numpy==1.11.2
 oauthlib==2.0.0
-openpyxl==2.4.0
+openpyxl==2.4.2
 packaging==16.7
 pandas==0.19.0
 pandas-datareader==0.2.1
