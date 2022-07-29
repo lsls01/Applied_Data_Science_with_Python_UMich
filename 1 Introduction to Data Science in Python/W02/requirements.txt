@@ -33,7 +33,7 @@ MarkupSafe==0.23
 matplotlib==1.5.3
 mccabe==0.5.2
 memory-profiler==0.41
-mistune==0.7.3
+mistune==2.0.3
 mypy-lang==0.4.5
 nbconvert==4.2.0
 nbformat==4.1.0
